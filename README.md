@@ -73,3 +73,13 @@ Fig 7.4 displays the result when the image is uploaded successfully i.e. it pred
 ![Screenshot 2022-05-26 at 2 02 24 PM](https://user-images.githubusercontent.com/91361896/170450667-1b8e343a-64a7-4826-91bb-11c191ba47f6.png)
 
 Fig 7.5 depicts the various results generated for different types of fake fingerprint sample when the fingerprint image uploaded was predicted fake. It displays the spoofing material as shown in the figure. The different types of spoofing materials are shown in the figure i.e. BodyDouble, Latex and Gelatine.
+
+
+<b>Youtube: https://youtu.be/xeq7Vp4U3I0</b>
+
+<h1>To Run the Code</h1>
+<li>Clone using: https://github.com/devyanshagrawal/FingerPrint-Liveness-Detection.git</li>
+Run Commands:
+<li>source env/bin/activate</li>
+<li>python migrate</li>
+<li>python manage.py runserver</li>
